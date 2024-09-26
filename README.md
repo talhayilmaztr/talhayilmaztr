@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 💬 Ask me about **Java,python,javascript,html,css,algorithms**
 
